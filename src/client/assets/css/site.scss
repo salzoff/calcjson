@@ -1,0 +1,6 @@
+$bgColorSite: azure;
+
+body {
+  background-color: $bgColorSite;
+  color: darken($bgColorSite, 80%);
+}
