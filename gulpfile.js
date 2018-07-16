@@ -1,6 +1,6 @@
 const gulp = require('gulp');
 require('./scripts/copy');
-require('./scripts/sass');
+require('./scripts/less');
 require('./scripts/babel');
 
-gulp.task('default', ['copy', 'babel']);
+gulp.task('default', ['copy', 'less', 'babel']);

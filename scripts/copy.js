@@ -33,5 +33,10 @@ gulp.task('copy:libs', function() {
         .pipe(gulp.dest('dist/assets/js'));
 });
 
+gulp.task('copy:fonts', function() {
+    return gulp.src(['./node_modules/bootstrap/fonts/*'])
+        .pipe(print())
+        .pipe(gulp.dest('dist/assets/fonts'))
+});
 
-gulp.task('copy', ['copy:js', 'copy:css', 'copy:html', 'copy:libs', 'copy:json']);
+gulp.task('copy', ['copy:js', 'copy:css', 'copy:html', 'copy:libs', 'copy:json', 'copy:fonts']);

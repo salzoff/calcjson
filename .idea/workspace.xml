@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7beb24ac-0cdf-4529-86d9-c8f57b0dac5c" name="Default" comment="" />
+    <list default="true" id="7beb24ac-0cdf-4529-86d9-c8f57b0dac5c" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/scripts/less.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/assets/css/site.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/compiled/app/initEditor.js" beforeDir="false" afterPath="$PROJECT_DIR$/compiled/app/initEditor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/app/initEditor.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/app/initEditor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/copy.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/copy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/sass.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/client/app/initEditor.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/app/initEditor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/client/assets/css/site.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/client/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/index.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,58 +27,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="babel.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scripts/babel.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gulpfile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+            <state relative-caret-position="34">
+              <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="initEditor.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="initEditor.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/client/app/initEditor.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+              <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
+      <file leaf-file-name="less.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/less.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="54" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="69" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CALC.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/client/assets/schema/CALC.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-459" />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dist/index.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="EDF_CALCULATION.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dist/assets/schema/EDF_CALCULATION.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-              <folding>
-                <element signature="n#!!block;n#Exchanges#0;n#!!block;n#properties#0;n#!!block;n#CalculationRoot#0;n#!!block;n#properties#0;n#!!top" />
-              </folding>
+            <state relative-caret-position="136">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -70,23 +57,53 @@
       <file leaf-file-name="copy.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scripts/copy.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="595">
+              <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jsoneditor.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dist/assets/js/jsoneditor.js">
+      <file leaf-file-name="CALC2.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/client/assets/schema/CALC2.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret column="3799" selection-start-column="3799" selection-end-column="3799" />
+            <state relative-caret-position="1237">
+              <caret line="2596" column="1" selection-start-line="2596" selection-start-column="1" selection-end-line="2596" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="initEditor.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dist/app/initEditor.js">
+      <file leaf-file-name="bootstrap.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/less/bootstrap.less">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="629">
+              <caret line="39" selection-start-line="39" selection-end-line="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/client/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dist/assets/css/bootstrap.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-663" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="site.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/client/assets/css/site.less">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -99,17 +116,25 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/gulpfile.js" />
         <option value="$PROJECT_DIR$/src/client/app/module.js" />
         <option value="$PROJECT_DIR$/webpack.config.js" />
         <option value="$PROJECT_DIR$/compiled/app/initEditor.js" />
-        <option value="$PROJECT_DIR$/scripts/copy.js" />
-        <option value="$PROJECT_DIR$/src/client/index.html" />
         <option value="$PROJECT_DIR$/dist/app/initEditor.js" />
+        <option value="$PROJECT_DIR$/src/client/assets/css/site.scss" />
         <option value="$PROJECT_DIR$/src/client/app/initEditor.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/scripts/sass.js" />
+        <option value="$PROJECT_DIR$/src/client/index.html" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/scripts/less.js" />
+        <option value="$PROJECT_DIR$/scripts/copy.js" />
+        <option value="$PROJECT_DIR$/src/client/assets/schema/CALC2.json" />
       </list>
     </option>
   </component>
@@ -133,6 +158,7 @@
     <option name="width" value="1936" />
     <option name="height" value="1216" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -165,12 +191,6 @@
               <item name="json" type="b2602c69:ProjectViewProjectNode" />
               <item name="json" type="462c0819:PsiDirectoryNode" />
               <item name="dist" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="json" type="b2602c69:ProjectViewProjectNode" />
-              <item name="json" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -178,14 +198,7 @@
               <item name="json" type="462c0819:PsiDirectoryNode" />
               <item name="dist" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="json" type="b2602c69:ProjectViewProjectNode" />
-              <item name="json" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="schema" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="json" type="b2602c69:ProjectViewProjectNode" />
@@ -223,6 +236,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="client" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="json" type="b2602c69:ProjectViewProjectNode" />
+              <item name="json" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="schema" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -237,7 +258,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../jgexml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -315,12 +336,12 @@
       <updated>1531379044602</updated>
       <workItem from="1531379045957" duration="104000" />
       <workItem from="1531379164553" duration="10390000" />
-      <workItem from="1531493791697" duration="1345000" />
+      <workItem from="1531493791697" duration="12921000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11839000" />
+    <option name="totallyTimeSpent" value="23415000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1176" extended-state="6" />
@@ -334,7 +355,7 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Capture Tool" order="6" />
@@ -362,9 +383,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/scripts/babel.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -431,16 +449,6 @@
     <entry file="file://$PROJECT_DIR$/.babelrc">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/@json-editor/json-editor/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="36" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/@json-editor/json-editor/dist/jsoneditor.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/webpack.config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -455,24 +463,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/client/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scripts/babel.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/dist/assets/schema/EDF_CALCULATION.json">
@@ -485,11 +476,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/copy.js">
+    <entry file="file://$PROJECT_DIR$/src/client/assets/schema/CALC.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
+        <state relative-caret-position="-459" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/json-schema/draft-04/hyper-schema">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/json-schema/draft-04/links">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/json-schema/draft-zyp-json-schema-04.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/json-schema/lib/validate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-204" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dist/assets/js/jsoneditor.js">
@@ -502,22 +505,139 @@
     <entry file="file://$PROJECT_DIR$/dist/app/initEditor.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/dist/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@json-editor/json-editor/dist/jsoneditor.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@json-editor/json-editor/src/editor.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="54" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="69" />
-        </state>
+        <state relative-caret-position="-765" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/client/assets/schema/CALC.json">
+    <entry file="file://$PROJECT_DIR$/node_modules/@json-editor/json-editor/src/jquery.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@json-editor/json-editor/src/templates/default.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@json-editor/json-editor/src/themes/html.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-459" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@json-editor/json-editor/src/core.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2499" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@json-editor/json-editor/src/editors/array.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@json-editor/json-editor/src/editors/object.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5032">
+          <caret line="73" column="20" lean-forward="true" selection-start-line="73" selection-start-column="20" selection-end-line="73" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CALC.jsonschema">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7344" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/json-schema/draft-04/schema">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@json-editor/json-editor/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-136">
+          <caret line="1" column="36" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/jsprim/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/json-schema/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/json-schema/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="34" column="57" lean-forward="true" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/client/assets/schema/EDF_CALCULATION.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/assets/css/site.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/client/assets/css/site.less">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/client/app/initEditor.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/client/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/assets/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-663" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/less/bootstrap.less">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/less.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/copy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/client/assets/schema/CALC2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1237">
+          <caret line="2596" column="1" selection-start-line="2596" selection-start-column="1" selection-end-line="2596" selection-end-column="1" />
         </state>
       </provider>
     </entry>
